@@ -6,4 +6,4 @@ This repository contains TypeScript based examples of data structures and relate
 
 ## Data Structures
 
-- `B` [LinkedList](src/data-structures/LinkedList.ts)
+- `B` [LinkedList](src/data-structures/LinkedList/LinkedList.ts)
