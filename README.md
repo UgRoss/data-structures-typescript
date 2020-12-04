@@ -8,3 +8,4 @@ This repository contains TypeScript based examples of data structures and relate
 
 - `Beginer` [LinkedList](src/data-structures/LinkedList)
 - `Beginer` [DoublyLinkedList](src/data-structures/DoublyLinkedList)
+- `Beginer` [Stack](src/data-structures/Stack)
