@@ -1,5 +1,4 @@
 import { Stack } from '../Stack';
-import { LinkedList } from '../../LinkedList/LinkedList';
 
 describe('Stack', () => {
   describe('Access', () => {
