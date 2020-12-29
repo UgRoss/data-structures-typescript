@@ -6,7 +6,8 @@ This repository contains TypeScript based examples of data structures and relate
 
 ## Data Structures
 
-- `Beginner` [LinkedList](src/data-structures/LinkedList)
-- `Beginner` [DoublyLinkedList](src/data-structures/DoublyLinkedList)
+- `Beginner` [Linked List](src/data-structures/LinkedList)
+- `Beginner` [Doubly Linked List](src/data-structures/DoublyLinkedList)
 - `Beginner` [Stack](src/data-structures/Stack)
 - `Beginner` [Queue](src/data-structures/Queue)
+- `Medium` [Hash Table](src/data-structures/HashTable)
