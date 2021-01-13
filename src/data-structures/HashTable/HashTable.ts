@@ -50,7 +50,7 @@ export class HashTable<T> {
 
   /** Converts key string to hash number */
   private hash(key: string): number {
-    // Simple hash function that calculates sum of all characters codes inside thee key
+    // Simple hash function that calculates sum of all characters codes inside the key
     // You may want to use better hashing function to reduce the number of collisions
     const hashCode = Array.from(key).reduce(
       (hashAcc, keySymbol) => hashAcc + keySymbol.charCodeAt(0),
