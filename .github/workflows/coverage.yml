@@ -27,9 +27,7 @@ jobs:
 
       - name: Install modules
         run: npm i
-      - name: Install Codecov
-        run: npm i codecov -g
       - name: Run tests
         run: npm test:coverage.
       - name: Upload coverage to Codecov
-        run: codecov --token=${{ secrets.CODECOV_TOKEN }}    
+        run: npx codecov --token=${{ secrets.CODECOV_TOKEN }}
