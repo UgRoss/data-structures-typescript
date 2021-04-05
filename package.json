@@ -4,7 +4,8 @@
   "description": "Data Structures implemented in TypeScript",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:coverage": "jest --collectCoverage"
   },
   "repository": {
     "type": "git",
