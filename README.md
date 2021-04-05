@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/UgRoss/data-structures-typescript/branch/main/graph/badge.svg?token=LMAZWSYHK3)](https://codecov.io/gh/UgRoss/data-structures-typescript)
+
 # 🚧 [WIP] Data Structures implemented in TypeScript
 
 This repository contains TypeScript based examples of data structures and related tasks.
